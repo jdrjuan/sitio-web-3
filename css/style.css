@@ -3,3 +3,15 @@ body {
     background-color: #234;
     color: #f2f2f2;
 }
+
+.carrito {
+    border: 3px solid;
+    padding: 20px;
+    margin: 20px;
+}
+
+.articulo {
+    background-color: #123;
+    padding: 20px;
+    margin-bottom: 20px;
+}
