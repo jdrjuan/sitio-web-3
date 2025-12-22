@@ -3,3 +3,10 @@ body {
     background-color: #234;
     color: #f2f2f2;
 }
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 3em;
+    font-style: italic;
+}
