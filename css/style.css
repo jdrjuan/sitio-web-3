@@ -16,6 +16,11 @@ h1 {    text-align: center;
     margin: 20px;
 }
 
+.carrito footer {
+    background-color: #f3f3f3;
+    color: #111;
+}
+
 .articulo {
     background-color: #123;
     padding: 20px;
