@@ -16,8 +16,15 @@ h1 {    text-align: center;
     margin: 20px;
 }
 
+.carrito footer {
+    background-color: #f3f3f3;
+    color: #111;
+    padding: .8em;
+}
+
 h2 {
     font-family: Verdana, Geneva, sans-serif;
+    text-decoration: underline;
 }
 
 .articulo {
